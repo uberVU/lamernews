@@ -1,6 +1,6 @@
 # General
 SiteName = "Uber News"
-SiteUrl = "http://localhost:4567"
+SiteUrl = "http://ubernews.ubervu.local"
 SiteDescription = "New in the VU"
 
 # Redis config
